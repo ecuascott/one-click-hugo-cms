@@ -10,12 +10,11 @@ blurb:
     community. When you choose Goza Media, you get quality made in USA. We are
     hands-on and assist you from start-to-finish.  
 intro:
-  heading: What we offer
+  heading: What we do
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Goza Media is the ultimate spot for home owners who want to upgrade their
+    old windows and to install hurricane impact windows and doors. We’re glad to
+    pass that knowledge and expertise to make your project a success! 
 products:
   - image: img/illustrations-coffee.svg
     text: >-
