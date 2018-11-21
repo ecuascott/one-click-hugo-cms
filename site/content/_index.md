@@ -7,7 +7,7 @@ blurb:
   heading: Why Goza Media?
   text: >-
     Third generation construction leadership and active in the south Florida
-    community. When you choose Doral Impact, you get quality made in USA. We are
+    community. When you choose Goza Media, you get quality made in USA. We are
     hands-on and assist you from start-to-finish.  
 intro:
   heading: What we offer
