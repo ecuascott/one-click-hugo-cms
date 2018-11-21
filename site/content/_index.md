@@ -4,7 +4,7 @@ subtitle: Hurricane Impact Windows & Doors
 image: >-
   /img/stock-photo-rear-view-of-a-couple-relaxing-on-a-sofa-at-home-and-looking-outside-a-green-background-through-the-417086011.jpg
 blurb:
-  heading: Why Doral Impact?
+  heading: Why Goza Media?
   text: >-
     Third generation construction leadership and active in the south Florida
     community. When you choose Doral Impact, you get quality made in USA. We are
