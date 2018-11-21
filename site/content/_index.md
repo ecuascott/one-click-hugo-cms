@@ -2,7 +2,7 @@
 title: The best decision you've ever made.
 subtitle: Hurricane Impact Windows & Doors
 image: >-
-  /img/stock-photo-side-view-of-a-happy-couple-breathing-and-resting-lying-in-a-couch-at-home-with-a-window-in-the-417080581.jpg
+  /img/stock-photo-rear-view-of-a-couple-relaxing-on-a-sofa-at-home-and-looking-outside-a-green-background-through-the-417086011.jpg
 blurb:
   heading: Why Doral Impact?
   text: >-
